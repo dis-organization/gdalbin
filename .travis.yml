@@ -24,11 +24,12 @@ matrix:
           env:
            - BUILD_NAME=osx_oldrel
            - R_CODECOV=false
-        - os: osx
+        - os: release
           r: 3.4.4
           before_install: ''
           disable_homebrew: true
           env:
+           - R_VERSION=3.4.4
            - BUILD_NAME=osx_R3.4.4
            - R_CODECOV=false
 
