@@ -8,13 +8,10 @@ cache:
   - ccache
 latex: false
 
-env:
-  - R_VERSION=3.4
-
 matrix:
     include:
         - os: osx
-          r: release
+          r: 3.4
           before_install: ''
           disable_homebrew: true
           env:
