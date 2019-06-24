@@ -24,8 +24,8 @@ matrix:
           env:
            - BUILD_NAME=osx_oldrel
            - R_CODECOV=false
-        - os: release
-          r: 3.4.4
+        - os: osx
+          r: release
           before_install: ''
           disable_homebrew: true
           env:
