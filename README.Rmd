@@ -18,6 +18,11 @@ knitr::opts_chunk$set(
 [![OSX Build Status](http://badges.herokuapp.com/travis/mdsumner/gdalbin?branch=master&env=BUILD_NAME=osx_release&label=osx)](https://travis-ci.org/mdsumner/gdalbin)
 
 [![OSXoldrel Build Status](http://badges.herokuapp.com/travis/mdsumner/gdalbin?branch=master&env=BUILD_NAME=osx_oldrel&label=osx_oldrel)](https://travis-ci.org/mdsumner/gdalbin)
+[![OSXosx_ver3.4.4
+ Build Status](http://badges.herokuapp.com/travis/mdsumner/gdalbin?branch=master&env=BUILD_NAME=osx_ver3.4.4
+&label=osx_ver3.4.4
+)](https://travis-ci.org/mdsumner/gdalbin)
+
 
 <!-- badges: end -->
 

@@ -10,6 +10,8 @@ Status](http://badges.herokuapp.com/travis/mdsumner/gdalbin?branch=master&env=BU
 
 [![OSXoldrel Build
 Status](http://badges.herokuapp.com/travis/mdsumner/gdalbin?branch=master&env=BUILD_NAME=osx_oldrel&label=osx_oldrel)](https://travis-ci.org/mdsumner/gdalbin)
+[![OSXosx\_ver3.4.4 Build
+Status](http://badges.herokuapp.com/travis/mdsumner/gdalbin?branch=master&env=BUILD_NAME=osx_ver3.4.4%20&label=osx_ver3.4.4)](https://travis-ci.org/mdsumner/gdalbin)
 
 <!-- badges: end -->
 
