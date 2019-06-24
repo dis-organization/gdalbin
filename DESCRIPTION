@@ -11,5 +11,6 @@ License: GPL-3
 Encoding: UTF-8
 LazyData: true
 Imports: 
-    vapour
+    vapour,
+    rgdal
 RoxygenNote: 6.1.1

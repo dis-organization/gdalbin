@@ -19,5 +19,7 @@ knitr::opts_chunk$set(
 
 <!-- badges: end -->
 
-The goal of gdalbin is to ...
+The goal of gdalbin is to see if we can install a GDAL requiring package on OSX without homebrew or apt addons. 
+
+
 
