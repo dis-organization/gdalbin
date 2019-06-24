@@ -8,6 +8,9 @@ cache:
   - ccache
 latex: false
 
+env:
+  - R_VERSION=3.4
+
 matrix:
     include:
         - os: osx
@@ -23,14 +26,6 @@ matrix:
           disable_homebrew: true
           env:
            - BUILD_NAME=osx_oldrel
-           - R_CODECOV=false
-        - os: osx
-          r: release
-          before_install: ''
-          disable_homebrew: true
-          env:
-           - R_VERSION=3.4.4
-           - BUILD_NAME=osx_R3.4.4
            - R_CODECOV=false
 
 
