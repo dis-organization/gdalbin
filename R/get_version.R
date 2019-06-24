@@ -17,4 +17,8 @@ vapour_version <- function() {
 rgdal_version <- function() {
   rgdal::rgdal_extSoftVersion()
 }
-
+#' @export
+#' @name gdalbin
+sf_version <- function() {
+  sf::sf_extSoftVersion()
+}

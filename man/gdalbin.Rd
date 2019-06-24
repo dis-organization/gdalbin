@@ -4,11 +4,14 @@
 \alias{gdalbin}
 \alias{vapour_version}
 \alias{rgdal_version}
+\alias{sf_version}
 \title{Get version}
 \usage{
 vapour_version()
 
 rgdal_version()
+
+sf_version()
 }
 \value{
 character string
